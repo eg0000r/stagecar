@@ -1,0 +1,57 @@
+#logo, #placeholder {
+    width: 15vw;
+    padding: 1vw;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+#placeholder {
+    opacity: 0;
+}
+
+#header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.5);
+}
+
+.Menu-item {
+    height: inherit;
+    width: 15vw;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+button.Menu-button {
+    width: inherit;
+    height: inherit;
+    background-color: white;
+    color: black;
+    border: none;
+    font-family: sans-serif;
+    font-weight: bolder;
+    outline: none;
+    user-select: none;
+}
+
+button.Menu-button:hover {
+    color: rgb(225, 21, 21);
+}
+
+input.Menu-search {
+    outline: none;
+    border-radius: 10vw;
+    text-align: center;
+    border: lightgrey thin solid;
+    color: gray;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+input.Menu-search::selection {
+    background-color: lightgrey;
+}

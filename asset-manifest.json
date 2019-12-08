@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stagecar/static/css/main.664da717.chunk.css",
+    "main.js": "/stagecar/static/js/main.a2df705f.chunk.js",
+    "main.js.map": "/stagecar/static/js/main.a2df705f.chunk.js.map",
+    "runtime-main.js": "/stagecar/static/js/runtime-main.9cda6631.js",
+    "runtime-main.js.map": "/stagecar/static/js/runtime-main.9cda6631.js.map",
+    "static/js/2.ddb801f3.chunk.js": "/stagecar/static/js/2.ddb801f3.chunk.js",
+    "static/js/2.ddb801f3.chunk.js.map": "/stagecar/static/js/2.ddb801f3.chunk.js.map",
+    "index.html": "/stagecar/index.html",
+    "precache-manifest.21bab281214f845361f27c8268391358.js": "/stagecar/precache-manifest.21bab281214f845361f27c8268391358.js",
+    "service-worker.js": "/stagecar/service-worker.js",
+    "static/css/main.664da717.chunk.css.map": "/stagecar/static/css/main.664da717.chunk.css.map",
+    "static/js/2.ddb801f3.chunk.js.LICENSE": "/stagecar/static/js/2.ddb801f3.chunk.js.LICENSE",
+    "static/media/auto_ru.svg": "/stagecar/static/media/auto_ru.054f73c9.svg",
+    "static/media/logo.svg": "/stagecar/static/media/logo.add732ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cda6631.js",
+    "static/js/2.ddb801f3.chunk.js",
+    "static/css/main.664da717.chunk.css",
+    "static/js/main.a2df705f.chunk.js"
+  ]
+}
