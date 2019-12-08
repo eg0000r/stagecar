@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0533680564baa69685414bc4bf2f0546",
+    "revision": "5182fc98f5bae98dea4bfff9a0a52eb3",
     "url": "/stagecar/index.html"
   },
   {
-    "revision": "19a606c778b18901da8c",
-    "url": "/stagecar/static/css/main.664da717.chunk.css"
+    "revision": "6abb54d5ef3c3d9a5743",
+    "url": "/stagecar/static/css/main.13f0ab74.chunk.css"
   },
   {
     "revision": "38c738dba7b42f4a5654",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stagecar/static/js/2.ddb801f3.chunk.js.LICENSE"
   },
   {
-    "revision": "19a606c778b18901da8c",
-    "url": "/stagecar/static/js/main.a2df705f.chunk.js"
+    "revision": "6abb54d5ef3c3d9a5743",
+    "url": "/stagecar/static/js/main.b2112042.chunk.js"
   },
   {
     "revision": "36a209caae5abcaefe32",
