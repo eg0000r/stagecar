@@ -66,9 +66,13 @@ input.Menu-search::selection {
     background-color: lightgrey;
 }
 
+br.break-smart {
+    display: none;
+}
+
 @media only screen and (max-width: 600px) {
     #placeholder {
-        width: 25vw;
+        width: 70vw;
     }
     #search-holder {
         display: none;
@@ -91,5 +95,8 @@ input.Menu-search::selection {
     }
     div.Menu-item {
         width: 30vw;
+    }
+    br.break-smart {
+        display: inherit;
     }
 }
